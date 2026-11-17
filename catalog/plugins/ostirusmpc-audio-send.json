@@ -11,7 +11,7 @@
     "utility",
     "audio-routing"
   ],
-  "asset_pattern": "OsTirusMPC-Audio-Send-*-MPC-ARM64.zip",
+  "asset_pattern": "OsTirusMPC-Audio-Send-*-mpc-aarch64.zip",
   "homepage": "https://github.com/dnkkit/OsTirusMPC",
   "min_os": "3.10.1",
   "collection": "ostirusmpc"
